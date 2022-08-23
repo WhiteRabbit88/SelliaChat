@@ -6,7 +6,7 @@ Sellia es la plataforma de comunicación con el cliente que ayuda a las empresas
 
 Para clonar el proyecto: 
 ```
-gh repo clone WhiteRabbit88/selliaApp
+gh repo clone WhiteRabbit88/SelliaChat
 ```
 
 
